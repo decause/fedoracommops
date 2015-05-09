@@ -65,13 +65,13 @@
                 <ul class="nav">
                     
                 <li>
-<a href="http://whatcanidoforfedora.org">Fedora</a>
+<a href="archive.html">Archive</a>
                 </li>
 <li>
-<a href="http://twitter.com/remy_d">@remy_d</a>
+<a href="categories/index.html">Tags</a>
                 </li>
 <li>
-<a href="repo">http://github.com/FedoraCommOps</a>
+<a href="rss.xml">RSS feed</a>
 
                     
                 </li>
@@ -99,19 +99,11 @@
         <p align="right"><a target="_blank" href="http://whatcanidoforfedora.org">http://whatcanidoforfedora.org</a></p>
     </section>
 
-    <section>
-        <section>Vocab &amp; Jargon</section>
-        <section>Developer + Operations = DevOps</section>
-        <section>Community + Operations = CommOps</section>
-    </section>
-
-    <section>
-        <h2>Examples</h2>
-        <section>Zodbot</section>
-        <section>WordCloudBot</section>
-        <section>FedoBot <img width="50%" src="fedobot1.png"></section>
-    </section>
-    </div
+        <section>
+            <section>Developer + Operations = DevOps</section>
+            <section>Community + Operations = CommOps</section>
+        </section>
+    </div>
 </div>
 
 
