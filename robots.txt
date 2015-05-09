@@ -1,0 +1,2 @@
+Sitemap: http://decause.github.io/fedoracommops/sitemapindex.xml
+
